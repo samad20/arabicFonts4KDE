@@ -22,3 +22,8 @@ cd arabicFonts4KDE
 ```
 ./changeFont.sh
 ```
+
+4. Reboot
+```
+sudo reboot
+```
