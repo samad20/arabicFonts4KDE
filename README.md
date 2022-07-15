@@ -4,3 +4,21 @@
 
 ## Youtube video link (Mohammed Besar channel):
 [https://www.youtube.com/watch?v=qWjz0ewff4s](https://www.youtube.com/watch?v=qWjz0ewff4s)
+
+
+## How to use?
+
+1. clone the repo
+```
+git clone https://github.com/samad20/arabicFonts4KDE.git
+```
+
+2. change directory to the repo
+```
+cd arabicFonts4KDE
+```
+
+3. Run script
+```
+./changeFont.sh
+```
