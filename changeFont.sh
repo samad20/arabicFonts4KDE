@@ -1,6 +1,7 @@
 #! /bin/bash
 
-sudo cp -r Arimo Cousine Tinos /usr/share/fonts/
+chmod 644 Noto-Sans-Arabic/*
+sudo cp -r Arimo Cousine Tinos Noto-Sans-Arabic /usr/share/fonts/
 
 mkdir ~/.config/fontconfig
 
