@@ -15,7 +15,7 @@ git clone https://github.com/samad20/arabicFonts4Linux.git
 
 2. change directory to the repo
 ```
-cd arabicFonts4KDE
+cd arabicFonts4Linux
 ```
 
 3. Run script
