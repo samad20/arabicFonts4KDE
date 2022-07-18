@@ -1,6 +1,6 @@
-# arabicFonts4KDE
+# arabicFonts4Linux
 
-## Change the Arabic font on the KDE desktop using the Noto Sans Arabic, Arimo, Cousine and Tinos fonts. This project is excerpted from a YouTube video. It has been customized for the KDE desktop with a script added to make it easier to use. 
+## Change the Arabic font onLinux Desktops using the Noto Sans Arabic, Arimo, Cousine and Tinos fonts. This project is excerpted from a YouTube video. The fonts were collected in one repository with the addition of a script for easy installation.
 
 ## Youtube video link (Mohammed Besar channel):
 [https://www.youtube.com/watch?v=qWjz0ewff4s](https://www.youtube.com/watch?v=qWjz0ewff4s)
@@ -19,10 +19,16 @@ cd arabicFonts4KDE
 ```
 
 3. Run script
+
+for KDE:
 ```
 ./changeFont.sh
 ```
 
+GNOME & others:
+```
+changeFont-kde.sh
+```
 4. Reboot
 ```
 sudo reboot
