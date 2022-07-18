@@ -1,6 +1,6 @@
 # arabicFonts4Linux
 
-## Change the Arabic font on GNU/Linux Desktops using the Noto Sans Arabic, Arimo, Cousine and Tinos fonts. This project is excerpted from a YouTube video. The fonts were collected in one repository with the addition of a script for easy installation.
+## Change the Arabic font on GNU/Linux Desktops using the Noto Sans Arabic, Arimo, Cousine and Tinos fonts. This project is excerpted from a YouTube video. The fonts were collected in one repository with a script for easy installation.
 
 ## Youtube video link (Mohammed Besar channel):
 [https://www.youtube.com/watch?v=qWjz0ewff4s](https://www.youtube.com/watch?v=qWjz0ewff4s)
