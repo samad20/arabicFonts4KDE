@@ -10,7 +10,7 @@
 
 1. clone the repo
 ```
-git clone https://github.com/samad20/arabicFonts4KDE.git
+git clone https://github.com/samad20/arabicFonts4Linux.git
 ```
 
 2. change directory to the repo
