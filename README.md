@@ -22,12 +22,12 @@ cd arabicFonts4Linux
 
 for KDE:
 ```
-./changeFont.sh
+./changeFont-kde.sh
 ```
 
 GNOME & others:
 ```
-changeFont-kde.sh
+./changeFont.sh
 ```
 4. Reboot
 ```
