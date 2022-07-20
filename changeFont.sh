@@ -7,8 +7,9 @@ mkdir ~/.config/fontconfig
 
 cp fonts-conf/fonts.conf ~/.config/fontconfig
 
-sudo fc-cache -fv
 fc-cache -fv
+sudo fc-cache -fv
+
 
 echo "you need to reboot your pc"
 
